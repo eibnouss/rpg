@@ -1,0 +1,13 @@
+x1 = RESOLUTION_W/2;
+y1 = RESOLUTION_H-70;
+x2 = RESOLUTION_W/2;
+y2 = RESOLUTION_H;
+x1target = 0;
+x2target = RESOLUTION_W;
+lerpProgress = 0;
+textprogress = 0;
+message = "welcome to no-ville.";
+background = 0;
+response = ["alright"]
+responseselected = 0;
+originInstance = instance_activate_all()
